@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "module": "^1.2.5",
+    "path": "^0.12.7",
+    "pkg": "^4.3.5",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbizuneh/FriendFinder.git"
+  },
+  "author": "Tesfa Bizuneh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbizuneh/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tbizuneh/FriendFinder#readme"
+}
